@@ -1,0 +1,8 @@
+{
+  "name": "Aménagement Comestible - Gestion Totale",
+  "description": "Système de gestion intelligent pour Aménagement Comestible : scan de factures, comptabilité Québec/Canada, et recherche multimédia par IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
